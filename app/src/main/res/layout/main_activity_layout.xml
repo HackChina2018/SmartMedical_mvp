@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/disease_diagnosis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="常见疾病诊断" />
+
+    <Button
+        android:id="@+id/drug_instruction_manual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="药品说明书查询" />
+
+    <Button
+        android:id="@+id/emergency_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="智能呼救" />
+
+    <Button
+        android:id="@+id/doctor_appointment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="预约医生" />
+
+    <Button
+        android:id="@+id/remote_diagnosis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="远程诊断" />
+
+    <Button
+        android:id="@+id/medication_remider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="用药提醒" />
+
+    <Button
+        android:id="@+id/voice_assistant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="语音助手" />
+
+
+</LinearLayout>
